@@ -2,7 +2,7 @@ import Header from "./Components/Header/Header";
 import "./scss/app.scss";
 import React from "react";
 
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import NotFound from "./Pages/NotFound";
 import Card from "./Pages/Card";
